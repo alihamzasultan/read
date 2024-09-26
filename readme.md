@@ -24,5 +24,5 @@ This project is licensed under the MIT License.
 
 ## Developer
 <a href="https://www.linkedin.com/in/ali-hamza-sultan-1ba7ba267/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100%" height="100%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="10%" height="10%"/>
 </a>
