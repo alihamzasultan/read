@@ -23,6 +23,4 @@ Generate README.md files using AI for enhanced documentation.
 This project is licensed under the MIT License.
 
 ## Developer
-<a href="https://www.linkedin.com/in/ali-hamza-sultan-1ba7ba267/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Person_icon_black.png" alt="Person Icon" width="20" height="20"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hamza-sultan-1ba7ba267/)
