@@ -22,12 +22,7 @@ Generate README.md files using AI for enhanced documentation.
 ## License
 This project is licensed under the MIT License.
 
-
-
-
-
+## Developer
 <a href="https://www.linkedin.com/in/ali-hamza-sultan-1ba7ba267/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="10%" height="10%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
 </a>
-
-
